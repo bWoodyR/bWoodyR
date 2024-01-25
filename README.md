@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Unfortunately, most of my repos are currently private 🤷‍♂️. 
+
+Feel free to visit my personal website https://code.bwrd.eu 
+
 <!--
 **bWoodyR/bWoodyR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
