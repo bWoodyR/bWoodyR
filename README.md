@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Feel free to visit my personal website https://code.bwrd.eu 
+Feel free to visit my personal website https://code.bwrd.eu and check my projects.
 
 <!--
 **bWoodyR/bWoodyR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
