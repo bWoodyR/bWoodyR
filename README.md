@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Unfortunately, most of my repos are currently private 🤷‍♂️. 
-
 Feel free to visit my personal website https://code.bwrd.eu 
 
 <!--
