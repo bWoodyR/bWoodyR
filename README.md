@@ -8,7 +8,7 @@
 
 Hello, I'm Roman Ďurek – a budding Frontend Developer with a keen interest in creating engaging digital interfaces. My current focus lies in harnessing the power of React to build responsive and dynamic web applications. Driven by a passion for problem-solving and a thirst for knowledge, I am dedicated to perfecting the art of crafting seamless user experiences and intuitive designs.
 
-## Highlighted Projects
+<h1 align="center">Highlighted Projects</h1>
 
 // Feel free to visit <a href="https:/code.bwrd.eu">MY PERSONAL SITE</a> for more info
 
@@ -61,7 +61,7 @@ Hello, I'm Roman Ďurek – a budding Frontend Developer with a keen interest in
 
 </section>
 
-## Experience
+<h1 align="center">Experience</h1>
 
 // These are the technologies I've worked with
 
@@ -207,6 +207,6 @@ Hello, I'm Roman Ďurek – a budding Frontend Developer with a keen interest in
 </tr>
 </table>
 
-## Contact Me
+<h1 align="center">Contact Me</h1>
 
 Feel free to reach out to me on my [personal website](https://code.bwrd.eu) or via email at [r.blackwoody@gmail.com](r.blackwoody@gmail.com).
