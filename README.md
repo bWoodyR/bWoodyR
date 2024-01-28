@@ -12,14 +12,18 @@ Hello, I'm Roman Ďurek – a budding Frontend Developer with a keen interest in
 
 // Feel free to visit <a href="https:/code.bwrd.eu">my personal site</a> for more info
 
-<section  style="display: flex; flex-wrap: wrap; gap: 1rem">
-<div>
+<table >
+<tr>
+<td>
+<div >
  <a href="https://code.bwrd.eu/projects/web/quiz-app">
     <h2>1. QR & Quiz app</h2>
      <img src="https://code.bwrd.eu/assets/quizImg2-e277cd9b.png" alt="drawing" width="300" height="175" />
     </a>
     <p style="font-weight: bold; font-size: 16px; max-width: 300px">React, Typescript, Sass, React Query</P>
 </div>
+</td>
+<td>
 <div>
 <a href="https://code.bwrd.eu/projects/web/finance-literacy">
     <h2>2. Finance Literacy Game</h2>
@@ -28,6 +32,11 @@ Hello, I'm Roman Ďurek – a budding Frontend Developer with a keen interest in
     <p style="font-weight: bold; font-size: 16px; max-width: 300px">React, Typescript, Sass, React Query, Express, Mongo, Docker, Google Cloud</P>
      <p style="font-weight: bold; font-size: 16px"></P>
 </div>
+</td>
+</tr>
+
+<tr>
+<td>
 <div>
  <a href="https://code.bwrd.eu/projects/web/generators">
     <h2>3. Random Generators</h2>
@@ -35,6 +44,8 @@ Hello, I'm Roman Ďurek – a budding Frontend Developer with a keen interest in
     </a>
     <p style="font-weight: bold; font-size: 16px; max-width: 300px">React, Typescript, Tailwind, React Query</P>
 </div>
+</td>
+<td>
 <div>
     <a href="https://code.bwrd.eu/projects/web/gpt">
     <h2>4. GPT Image Generator</h2>
@@ -42,6 +53,12 @@ Hello, I'm Roman Ďurek – a budding Frontend Developer with a keen interest in
     </a>
         <p style="font-weight: bold; font-size: 16px; max-width: 300px">NextJS, Typesript, Tailwind, Mongo, React Query, Prisma, Docker</P>
 </div>
+</td>
+</tr>
+</table>
+
+<section  style="display: flex; flex-wrap: wrap; gap: 1rem">
+
 </section>
 
 ## Experience
@@ -50,100 +67,145 @@ Hello, I'm Roman Ďurek – a budding Frontend Developer with a keen interest in
 
 ### Frontend
 
-<section style="display: flex; gap: 1rem">
-    <div style="text-align: center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="drawing" width="40" height="40" />
-        <p>React</p>
-    </div>
-        <div style="text-align: center">
-        <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" alt="drawing" width="40" height="40" />
+<table >
+<tr >
+    <td style="text-align: center"> 
+        <div style="text-align: center; flex: 1">
+            <img  src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="drawing" width="40" height="40" />
+            <p>React</p>
+        </div>
+    </td>
+    <td>
+ <div style="text-align: center; flex: 1">
+        <img  src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" alt="drawing" width="40" height="40" />
         <p>Next JS</p>
     </div>
-    <div style="text-align: center" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="drawing" width="40" height="40" />
+    </td>
+     <td>
+    <div style="text-align: center; flex: 1" >
+        <img  src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="drawing" width="40" height="40" />
         <p>Typescript</p>
     </div>
-    <div style="text-align: center" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="drawing" width="40" height="40" />
+    </td>
+     <td>
+    <div style="text-align: center; flex: 1" >
+        <img  src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="drawing" width="40" height="40" />
         <p>Javascript</p>
     </div>
-       <div style="text-align: center" >
-        <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="drawing" width="45 height="40" />
+    </td>
+     <td>
+      <div style="text-align: center; flex: 1" >
+        <img  src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="drawing" width="45 height="40" />
         <p>React Query</p>
     </div>
-    <div style="text-align: center" >
+    </td>
+     <td>
+    <div style="text-align: center; flex: 1" >
         <img style="min-height: 40px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="drawing" width="40 height="40" />
          <p>Sass</p>
      </div>
-    <div style="text-align: center" >
+    </td>
+     <td>
+    <div style="text-align: center; flex: 1" >
         <img style="min-height: 40px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="drawing" width="40 height="40" />
          <p>HTML</p>
      </div>
-    <div style="text-align: center" >
+    </td>
+    <td>
+    <div style="text-align: center; flex: 1" >
         <img style="max-height: 40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="drawing" width="40 height="40" />
          <p>CSS</p>
      </div>
-    <div style="text-align: center" >
+    </td>
+    <td>
+    <div style="text-align: center; flex: 1" >
         <img style="min-height: 40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="drawing" width="40 height="40" />
          <p>Tailwind</p>
      </div>
-</section>
+    </td>
+</tr>
+</table>
 
 ### Backend
 
-<section style="display: flex; gap: 1rem">
-    <div style="text-align: center">
+<table >
+<tr >
+    <td> 
+        <div style="text-align: center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="drawing" width="40" height="40" />
         <p>NodeJS + Express</p>
     </div>
-        <div style="text-align: center">
+    </td>
+    <td>
+   <div style="text-align: center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/768px-Antu_mongodb.svg.png" alt="drawing" width="40" height="40" />
         <p>Mongo DB</p>
     </div>
-    <div style="text-align: center" >
+    </td>
+     <td>
+   <div style="text-align: center" >
         <img src="https://cdn.worldvectorlogo.com/logos/prisma-4.svg" alt="drawing" width="40" height="40" />
         <p>Prisma ORM</p>
     </div>
+    </td>
+     <td>
     <div style="text-align: center" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" alt="drawing" width="60" height="40" />
         <p>Docker</p>
     </div>
-    <div style="text-align: center" >
+    </td>
+     <td>
+      <div style="text-align: center" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Google_cloud.png" alt="drawing" width="40" height="40" />
         <p>Google Cloud Serverless</p>
     </div>
-</section>
+    </td>
+</tr>
+</table>
 
 ### Game Dev
 
-<section style="display: flex; gap: 1rem">
-    <div style="text-align: center">
+<table >
+<tr >
+    <td> 
+       <div style="text-align: center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg" alt="drawing" width="40" height="40" />
         <p>Unreal Engine 5</p>
     </div>
-        <div style="text-align: center">
+    </td>
+    <td>
+   <div style="text-align: center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="drawing" width="40" height="40" />
         <p>Godot</p>
     </div>
-
-</section>
+    </td>
+</tr>
+</table>
 
 ### Others
 
-<section style="display: flex; gap: 1rem">
-    <div style="text-align: center">
+<table >
+<tr >
+    <td> 
+       <div style="text-align: center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="drawing" width="110" height="30" />
         <p>Postman</p>
     </div>
-    <div style="text-align: center">
+    </td>
+    <td>
+   <div style="text-align: center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="drawing" width="40" height="40" />
         <p>Figma</p>
     </div>
-    <div style="text-align: center">
+    </td>
+     <td>
+  <div style="text-align: center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Jira_%28Software%29_logo.svg" alt="drawing" width="100" height="40" />
         <p>Jira</p>
     </div>
-</section>
+    </td>
+</tr>
+</table>
 
 ## Contact Me
 
