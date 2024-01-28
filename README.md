@@ -10,7 +10,7 @@ Hello, I'm Roman Ďurek – a budding Frontend Developer with a keen interest in
 
 <h1 align="center">Highlighted Projects</h1>
 
-// Feel free to visit <a href="https:/code.bwrd.eu">MY PERSONAL SITE</a> for more info
+// Feel free to visit <a href="https://code.bwrd.eu">MY PERSONAL SITE</a> for more info
 
 <table align="center">
 <tr align="center">
