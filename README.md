@@ -12,9 +12,9 @@ Hello, I'm Roman Ďurek – a budding Frontend Developer with a keen interest in
 
 // Feel free to visit <a href="https://code.bwrd.eu">MY PERSONAL SITE</a> for more info
 
-<table align="center">
-<tr align="center">
-<td align="center">
+<table>
+<tr>
+<td align="center" width="50%">
 <div align="center" >
  <a href="https://code.bwrd.eu/projects/web/quiz-app">
     <h2>1. QR & Quiz app</h2>
@@ -23,7 +23,7 @@ Hello, I'm Roman Ďurek – a budding Frontend Developer with a keen interest in
     <p style="font-weight: bold; font-size: 16px; max-width: 300px">React, Typescript, Sass, React Query</P>
 </div>
 </td>
-<td align="center">
+<td align="center" width="50%">
 <div align="center" >
 <a href="https://code.bwrd.eu/projects/web/finance-literacy">
     <h2>2. Finance Literacy Game</h2>
@@ -36,7 +36,7 @@ Hello, I'm Roman Ďurek – a budding Frontend Developer with a keen interest in
 </tr>
 
 <tr align="center">
-<td align="center">
+<td align="center" width="50%">
 <div align="center" >
  <a href="https://code.bwrd.eu/projects/web/generators">
     <h2>3. Random Generators</h2>
@@ -45,7 +45,7 @@ Hello, I'm Roman Ďurek – a budding Frontend Developer with a keen interest in
     <p style="font-weight: bold; font-size: 16px; max-width: 300px">React, Typescript, Tailwind, React Query</P>
 </div>
 </td>
-<td>
+<td width="50%">
 <div>
     <a href="https://code.bwrd.eu/projects/web/gpt">
     <h2>4. GPT Image Generator</h2>
