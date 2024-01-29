@@ -15,43 +15,38 @@ Hello, I'm Roman Ďurek – a budding Frontend Developer with a keen interest in
 <table>
 <tr>
 <td align="center" width="50%">
-<div align="center" >
- <a href="https://code.bwrd.eu/projects/web/quiz-app">
+<div >
     <h2>1. QR & Quiz app</h2>
      <img src="https://code.bwrd.eu/assets/quizImg2-e277cd9b.png" alt="drawing" width="300" height="175" />
-    </a>
-    <p style="font-weight: bold; font-size: 16px; max-width: 300px">React, Typescript, Sass, React Query</P>
+     <p style="font-weight: bold; font-size: 16px; max-width: 300px">React, Typescript, Sass, React Query</P>
+     <a href="https://code.bwrd.eu/projects/web/quiz-app">Details</a>
 </div>
 </td>
 <td align="center" width="50%">
-<div align="center" >
-<a href="https://code.bwrd.eu/projects/web/finance-literacy">
+<div align="center">
     <h2>2. Finance Literacy Game</h2>
      <img src="https://code.bwrd.eu/assets/financeLiteracyImg4-8f029c86.png" alt="drawing" width="300" height="150" />
-    </a>
-    <p style="font-weight: bold; font-size: 16px; max-width: 300px">React, Typescript, Sass, React Query, Express, Mongo, Docker, Google Cloud</P>
-     <p style="font-weight: bold; font-size: 16px"></P>
+    <p style="font-weight: bold; font-size: 16px; max-width: 300px">React, Typescript, Sass, React Query, Express, Mongo, Docker, Google Cloud</p>
+    <a href="https://code.bwrd.eu/projects/web/finance-literacy">Details</a>
 </div>
 </td>
 </tr>
 
 <tr align="center">
 <td align="center" width="50%">
-<div align="center" >
- <a href="https://code.bwrd.eu/projects/web/generators">
+<div align="center" > 
     <h2>3. Random Generators</h2>
      <img src="https://code.bwrd.eu/assets/generatorsImg3-8a1fa3a6.png" alt="drawing" width="300" height="150" />
-    </a>
     <p style="font-weight: bold; font-size: 16px; max-width: 300px">React, Typescript, Tailwind, React Query</P>
+   <a href="https://code.bwrd.eu/projects/web/generators">Details</a>
 </div>
 </td>
 <td width="50%">
-<div>
-    <a href="https://code.bwrd.eu/projects/web/gpt">
+<div>    
     <h2>4. GPT Image Generator</h2>
      <img src="https://code.bwrd.eu/assets/gptImg2-fe797d30.png" alt="drawing" width="300" height="150" />
-    </a>
-        <p style="font-weight: bold; font-size: 16px; max-width: 300px">NextJS, Typesript, Tailwind, Mongo, React Query, Prisma, Docker</P>
+    <p style="font-weight: bold; font-size: 16px; max-width: 300px">NextJS, Typesript, Tailwind, Mongo, React Query, Prisma, Docker</P>
+    <a href="https://code.bwrd.eu/projects/web/gpt">Details</a>
 </div>
 </td>
 </tr>
