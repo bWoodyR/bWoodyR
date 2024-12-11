@@ -32,17 +32,9 @@ My current focus lies in harnessing the power of React to build responsive and d
 </tr>
 
 <tr align="center">
-<td align="center" width="50%">
-<div align="center" > 
-    <h2>3. Random Generators</h2>
-     <img src="https://code.bwrd.eu/assets/generatorsImg3-8a1fa3a6.png" alt="drawing" width="300" height="150" />
-    <p style="font-weight: bold; font-size: 16px; max-width: 300px">React, Typescript, Tailwind, React Query</P>
-   <a href="https://code.bwrd.eu/projects/web/generators">Details</a>
-</div>
-</td>
 <td width="50%">
 <div>    
-    <h2>4. GPT Image Generator</h2>
+    <h2>3. GPT Image Generator</h2>
      <img src="https://code.bwrd.eu/assets/gptImg2-fe797d30.png" alt="drawing" width="300" height="150" />
     <p style="font-weight: bold; font-size: 16px; max-width: 300px">NextJS, Typesript, Tailwind, Mongo, React Query, Prisma, Docker</P>
     <a href="https://code.bwrd.eu/projects/web/gpt">Details</a>
@@ -203,4 +195,4 @@ My current focus lies in harnessing the power of React to build responsive and d
 
 <h1 align="center">Contact Me</h1>
 
-Feel free to reach out to me on my [personal website](https://code.bwrd.eu) or via email at [r.blackwoody@gmail.com](r.blackwoody@gmail.com).
+Feel free to reach out to me on my [personal website](https://dev.bwrd.eu) or via email at [r.blackwoody@gmail.com](r.blackwoody@gmail.com).
