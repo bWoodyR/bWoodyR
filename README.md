@@ -9,7 +9,7 @@ My current focus lies in harnessing the power of React to build responsive and d
 
 <h1 align="center">Highlighted Projects</h1>
 
-// Feel free to visit <a href="https://code.bwrd.eu">MY PERSONAL SITE</a> for more info
+// Feel free to visit <a href="https://dev.bwrd.eu">MY PERSONAL SITE</a> for more info
 
 <table>
 <tr>
