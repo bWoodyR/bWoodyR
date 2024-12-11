@@ -25,7 +25,7 @@ My current focus lies in harnessing the power of React to build responsive and d
 <div align="center">
     <h2>2. Finance Literacy Game</h2>
      <img src="https://code.bwrd.eu/assets/financeLiteracyImg4-8f029c86.png" alt="drawing" width="300" height="150" />
-    <p style="font-weight: bold; font-size: 16px; max-width: 300px">React, Typescript, Sass, React Query, Express, Mongo, Docker, Google Cloud</p>
+    <p style="font-weight: bold; font-size: 16px; max-width: 300px">React, Typescript, Sass, Express, Mongo, Docker, Google Cloud</p>
     <a href="https://code.bwrd.eu/projects/web/finance-literacy">Details</a>
 </div>
 </td>
@@ -36,7 +36,7 @@ My current focus lies in harnessing the power of React to build responsive and d
 <div>    
     <h2>3. GPT Image Generator</h2>
      <img src="https://code.bwrd.eu/assets/gptImg2-fe797d30.png" alt="drawing" width="300" height="150" />
-    <p style="font-weight: bold; font-size: 16px; max-width: 300px">NextJS, Typesript, Tailwind, Mongo, React Query, Prisma, Docker</P>
+    <p style="font-weight: bold; font-size: 16px; max-width: 300px">NextJS, Typesript, Tailwind, PostgreSQL, Prisma, Docker</P>
     <a href="https://code.bwrd.eu/projects/web/gpt">Details</a>
 </div>
 </td>
