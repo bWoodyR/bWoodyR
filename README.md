@@ -3,10 +3,9 @@
 - 👨‍💼My name is Roman
 - 🔭 I’m aspiring Frontend Developer, **currently looking for a job** as junior developer
 - 🌱 I’m passionate about web and game development, and educational websites and applications.
-- 👯 I’m looking to collaborate on Open-source Projects.
 - 💬 Ask me about Websites, Apps or whatever.
 
-Hello, I'm Roman Ďurek – a budding Frontend Developer with a keen interest in creating engaging digital interfaces. My current focus lies in harnessing the power of React to build responsive and dynamic web applications. Driven by a passion for problem-solving and a thirst for knowledge, I am dedicated to perfecting the art of crafting seamless user experiences and intuitive designs.
+My current focus lies in harnessing the power of React to build responsive and dynamic web applications. Driven by a passion for problem-solving and a thirst for knowledge, I am dedicated to perfecting the art of crafting seamless user experiences and intuitive designs.
 
 <h1 align="center">Highlighted Projects</h1>
 
