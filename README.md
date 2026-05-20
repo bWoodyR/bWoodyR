@@ -6,12 +6,19 @@
 
 I build responsive, modern, and user-friendly web applications with a focus on clean UI, practical problem-solving, and continuous learning.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dev.bwrd.eu-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://dev.bwrd.eu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+<br />
+
+<a href="https://dev.bwrd.eu">
+  <img src="https://img.shields.io/badge/Portfolio-dev.bwrd.eu-38BDF8?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
-
----
 
 ---
 
@@ -21,27 +28,23 @@ I build responsive, modern, and user-friendly web applications with a focus on c
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,next,ts,js,tailwind,sass" alt="Frontend technologies" />
 
 ### Backend & Tools
 
-![Express](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=express,postgres,docker,git,github" alt="Backend and tools" />
+
+<br />
+
+<img src="https://img.shields.io/badge/REST_API-111827?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
 
 ### Exploring
 
-![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![AI](https://img.shields.io/badge/AI_Applications-7C3AED?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=electron,unreal" alt="Currently exploring" />
+
+<br />
+
+<img src="https://img.shields.io/badge/AI_Applications-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="AI Applications" />
 
 </div>
 
@@ -51,9 +54,9 @@ I build responsive, modern, and user-friendly web applications with a focus on c
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 
 </div>
 
