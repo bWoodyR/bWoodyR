@@ -1,6 +1,31 @@
-# Welcome to My GitHub Page! 👋
+# Hi, I'm Roman 👋
 
-- 👨‍💼My name is Roman
-- 💬 Feel free to reach out to me on my [personal website](https://dev.bwrd.eu).
+I'm a junior frontend developer and software tester based in Slovakia, focused on building responsive, intuitive, and user-friendly web applications.
 
-My current focus lies in harnessing the power of React to build responsive and dynamic web applications. Driven by a passion for problem-solving and a thirst for knowledge, I am dedicated to perfecting the art of crafting seamless user experiences and intuitive designs.
+## 🚀 What I'm working on
+
+- Building modern frontend applications with React and Next.js
+- Improving my TypeScript and full-stack development skills
+- Creating APIs and backend systems for real-world projects
+- Experimenting with Electron for cross-platform desktop apps
+- Continuously learning better UI, UX, and software architecture practices
+
+## 🛠️ Tech Stack
+
+**Frontend**  
+React · Next.js · TypeScript · JavaScript · Tailwind CSS · Sass
+
+**Backend & Tools**  
+Express · PostgreSQL · Docker · REST APIs · Git · GitHub
+
+**Also exploring**  
+Electron · Unreal Engine · AI-powered applications
+
+## 🎯 Current Goal
+
+My goal is to grow into a strong frontend developer who can build polished, accessible, and maintainable applications. I care about clean code, practical problem-solving, and creating interfaces that feel simple and natural to use.
+
+## 📫 Connect with me
+
+- Portfolio: [dev.bwrd.eu](https://dev.bwrd.eu)
+- [LinkedIn]()
